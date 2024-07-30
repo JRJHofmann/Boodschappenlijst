@@ -1,0 +1,5 @@
+<?php 
+$titlePag = "Home";
+
+
+?>
